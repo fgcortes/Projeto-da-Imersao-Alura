@@ -16,3 +16,7 @@ A partir das interações com o Gemini via Google AI Studio, realizei o upload d
 Inseri instruções para que o Gemini agisse como um especialista em licitações e contratos e baseasse suas respostas somente nos materiais que subi para a plataforma.
 O modelo generativo escolhido foi o Gemini 1.5 Pro, em razão de sua alta capacidade de geração de respostas consistentes e do tamanho do contexto, relativamente ao tamanho de tokens necessários para processar os arquivos PDF mencionados.
 Utilizando o "Get Code" do AI Studio, copiei e colei o código para o Google Colab, onde posteriormente configurei a integração do modelo com o bot do Telegram, criado por meio da interação com o BotFather do Telegram, que já forneceu a chave API utilizada no código.
+
+Acessando o bot
+
+Para utilizar o bot, basta clicar no link https://t.me/Auxilia_bot ou procurar diretamente no Telegram por "Auxil.IA de Contratações" ou @Auxilia_bot.
