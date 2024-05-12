@@ -20,3 +20,7 @@ Utilizando o "Get Code" do AI Studio, copiei e colei o código para o Google Col
 Acessando o bot
 
 Para utilizar o bot, basta clicar no link https://t.me/Auxilia_bot ou procurar diretamente no Telegram por "Auxil.IA de Contratações" ou @Auxilia_bot.
+
+Demonstração de interação com o bot
+
+https://drive.google.com/file/d/1QLuTnqd6nGonjEfaUVlBR_Jv0KoMLbEJ/view?usp=sharing
